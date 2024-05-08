@@ -1,0 +1,60 @@
+.box1{
+    border: solid 3px black;
+    width: 85%;
+    height: 40vh;
+margin-left:5%;}
+
+.box2{
+    border: solid 3px black;
+    margin: 10%;
+    width: 70%;
+    height: 25vh;
+    margin-top: 20%;
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+    padding: 10%;
+  
+}
+.col-md-3,.custom-box{
+border: none;
+
+}
+.container{
+
+    border: solid 3px black;
+    width: 45%;
+    height: 100h;
+}
+.container-fluid{
+    border: solid 3px black;
+    height: 100vh;
+    padding-top: 2%;
+
+
+}
+.bttn{
+    flex-direction: column;
+    border: solid 3px black;
+    margin-top: 5%;
+    margin-left: 5%;
+    width:  30%;
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+
+}
+.custom-box {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.title,.col-sm-4,.title2{
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.form-control{
+    border: solid 3px black;
+    border-color: black;
+
+}
